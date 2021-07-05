@@ -11,6 +11,17 @@ const pokemons = [
       moreInfo: "https://bulbapedia.bulbagarden.net/wiki/Pikachu_(Pok%C3%A9mon)"
   },
   {
+      id: 1,
+      name: "Bulbasaur",
+      type: 'Grass',
+      averageWeight: {
+        value: "6.5",
+        measurementUnit: "kg"
+      },
+      image: "https://cdn2.bulbagarden.net/upload/7/76/Spr_5b_001.png"
+
+  },
+  {
       id: 4,
       name: "Charmander",
       type: 'Fire',
